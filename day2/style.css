@@ -14,6 +14,10 @@ body {
   background-color: #eef2f7;
 }
 
+   form p {
+     margin: 0;
+   }
+
 /* ---------- Header ---------- */
 
 header {
